@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠 how to use
+## 🛠 how to usea
 
 1. enter a full URL (e.g. `https://example.com`)
 2. click **launch**
